@@ -1,0 +1,52 @@
+# Исполняемые файлы
+client_signal
+server_signal
+client_flag
+server_flag
+client_sem
+server_sem
+
+# Объектные файлы и библиотеки
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Файлы, генерируемые компилятором
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Временные файлы LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Сгенерированные PDF файлы
+report.pdf
+
+# Файлы редакторов и IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
